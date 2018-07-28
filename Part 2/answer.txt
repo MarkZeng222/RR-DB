@@ -1,3 +1,7 @@
+For each player (account) and avatar, list by the player's login, name (as “player”), and avatar's name (as “avatar”) the number of quests (as “#quests”) that the player has been on as that avatar. (Only count as long as he or she has been on at least one quest as that avatar; that is, if he or she has never been on a quest with that avatar, you do not have to report ‘0’.)
+
+results should match this table below:
+
 LOGIN           PLAYER          AVATAR          #QUESTS    
 --------------- --------------- --------------- -----------
 agnetha         Sarah           Flit                      3
