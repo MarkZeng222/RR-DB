@@ -1,0 +1,85 @@
+
+LOGIN           NAME            RACE            EARNED      #QUEST     
+--------------- --------------- --------------- ----------- -----------
+agnetha         Flit            faerie                11486           4
+agnetha         Flutter Shy     faerie                 1590           4
+agnetha         Whisp           faerie                12946           8
+astral          Elphaba         wizard                 6005           9
+astral          Lightning       raccoon              113378           7
+bobby           Smiley          shark                 14590           8
+bobby           Steve           wizard                 3021           4
+bobby           Wayne           footballer             2590           5
+cait            Cait            raccoon               30896          19
+carter          Belle           shark                102625           4
+carter          Lucille         footballer             1398           6
+carter          Tony            faerie               103438           7
+cash            Barack          wizard                13560           7
+cash            Roads           raccoon              214625           8
+coder           Ellis           faerie                 5046           7
+coder           Pele            footballer             3774           6
+coder           Rhonda          raccoon               13323           6
+dazzle          Beckham         footballer             2650           5
+dazzle          Landshark       shark                   676           3
+dazzle          Tinks           faerie               105596           8
+dougy           Wayne           footballer             4549           8
+dougy           Zounds          wizard                 5339          12
+growley         Gandalf         wizard               112550           8
+growley         Rocky           raccoon               15319          10
+hazard          Incisor         shark                 11653           3
+hazard          Robby           wizard                35257          10
+hazard          Toothless       shark                 11526           4
+hills           Fluffs          raccoon                2019           4
+hills           Ged             wizard                 2656           4
+hills           Razor           shark                  4523           9
+horton          Dumbledore      wizard                14604           9
+horton          Hops            raccoon               23653           6
+horton          Zinedine        footballer             3114           7
+indigo          Harry           wizard               102399           6
+indigo          Masako          raccoon              122593           9
+json            Andrea          faerie                 3657           6
+json            Stills          faerie                 3188           6
+json            Tracy           shark                 24019           8
+lioness         Donatella       shark                  4291           9
+lioness         Pilot           faerie                25718          11
+lurker          Mousey          raccoon              125971          14
+macho           Bash            wizard                12195           6
+macho           Kawaii          faerie                14609          10
+macho           Scream          shark                  2486           4
+ollie           Ralf            raccoon               14745          10
+ollie           Tooth           shark                 33590           9
+pirate          Romeo           raccoon                4550           6
+pirate          Ronaldo         footballer           113922           9
+pirate          Snaps           shark                123653           7
+skills          Blue Ant        wizard                  100           1
+skills          Haks            footballer            15629          10
+skills          Martian         shark                 12941           7
+snek            Sigil           raccoon              114729          13
+snek            Snores          raccoon                2914           9
+storm           Beyonce         faerie                 1458           6
+storm           Lazarus         wizard               102743           6
+storm           Nibbles         shark                  2185           4
+surfette        Mia             footballer            16138          12
+surfette        Zerf            faerie               121040           8
+thedba          Hermione        wizard               102582           5
+thedba          Le Fay          faerie                 2975           4
+thedba          Rhapsody        raccoon                   0           0
+thedba          Sandra Dee      shark                  1982           5
+thedba          Solo            footballer             1376           3
+thesix          Beckham         footballer            14311           9
+thesix          Sweetiepie      faerie                 2813           9
+thunder         Gareth          footballer             3200           5
+thunder         Lara            raccoon                4256           9
+thunder         Zlatan          footballer             4306           5
+tizdale         Dinks           faerie                 6121          10
+tizdale         Frenzy          shark                   670           2
+tizdale         Ged             wizard                 2875           5
+trudie          Bonk            shark                 21292           5
+trudie          Reni            raccoon                7290          11
+whisper         Fiona           faerie                23105          10
+whisper         Fred            faerie                 7718          15
+zedster         Horatio         raccoon              101871           6
+zedster         Marvin          wizard                23140           9
+zoood           Sherlock        shark                  6840          11
+zoood           Smiley          shark                107270          12
+
+  80 record(s) selected.

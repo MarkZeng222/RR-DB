@@ -1,0 +1,9 @@
+
+LOGIN           NAME            DAY        REALM           THEME          
+--------------- --------------- ---------- --------------- ---------------
+surfette        Zeripha         08/06/2016 Buffalo         Airport Chaos  
+surfette        Zeripha         08/06/2016 Buffalo         Niagara Bowling
+thedba          Harriet         09/18/2016 The Deep        Mermaid Waltz  
+thedba          Harriet         09/18/2016 The Deep        The Shark Tank 
+
+  4 record(s) selected.

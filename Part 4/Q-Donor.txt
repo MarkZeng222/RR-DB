@@ -1,0 +1,34 @@
+-- Who could donate a prize per quest and which prize?
+
+with
+    Haul (day, realm, theme, login, #prize, worth) as (
+        select L.day, L.realm, L.theme, L.login,
+               count(*),
+               sum(T.sql)
+        from Loot L, Treasure T
+        where L.treasure = T.treasure
+          and login is not null
+        group by day, realm, theme, login
+        having count(*) > 1
+    ),
+    Donor (day, realm, theme, login, #prize, worth) as (
+        select day, realm, theme, login, #prize, worth
+        from Haul H
+        where not exists (
+                select *
+                from Haul J
+                where H.day   = J.day
+                  and H.realm = J.realm
+                  and H.theme = J.theme
+                  and ((J.#prize > H.#prize)
+                        or
+                       (J.#prize = H.#prize and J.worth > H.worth)
+                        or
+                       (J.#prize = H.#prize
+                            and J.worth = H.worth
+                            and J.login > H.login))
+            )
+    )
+select day, realm, theme, login, #prize, worth
+from Donor
+order by day, realm, theme;

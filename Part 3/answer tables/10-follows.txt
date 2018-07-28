@@ -1,0 +1,39 @@
+
+FOLLOWER        FNAME           REALM           LEADER          LNAME          
+--------------- --------------- --------------- --------------- ---------------
+astral          Lightning       Valhalla        tizdale         Dinks          
+bobby           Smiley          Camelot         lioness         Pilot          
+bobby           Smiley          The Deep        cait            Cait           
+bobby           Steve           The Deep        cait            Cait           
+bobby           Smiley          The Deep        thesix          Sweetiepie     
+bobby           Smiley          The Deep        zedster         Horatio        
+carter          Lucille         Valhalla        ollie           Ralf           
+cash            Barack          The Deep        pirate          Ronaldo        
+coder           Rhonda          Valhalla        zoood           Sherlock       
+dazzle          Tinks           The Deep        coder           Ellis          
+dougy           Zounds          The Deep        dazzle          Beckham        
+growley         Gandalf         Walmart         pirate          Snaps          
+hills           Razor           Valhalla        ollie           Ralf           
+horton          Dumbledore      The Deep        snek            Sigil          
+horton          Zinedine        Valhalla        astral          Elphaba        
+horton          Hops            Valhalla        lioness         Pilot          
+horton          Dumbledore      Walmart         coder           Rhonda         
+horton          Dumbledore      Walmart         surfette        Mia            
+indigo          Masako          Buffalo         macho           Kawaii         
+lioness         Pilot           Buffalo         surfette        Mia            
+lioness         Pilot           Walmart         macho           Bash           
+lioness         Donatella       Walmart         thunder         Zlatan         
+lurker          Mousey          Buffalo         trudie          Bonk           
+macho           Scream          Walmart         json            Andrea         
+macho           Bash            Walmart         lioness         Pilot          
+ollie           Tooth           Buffalo         json            Tracy          
+ollie           Tooth           Walmart         cait            Cait           
+pirate          Ronaldo         Walmart         growley         Rocky          
+snek            Snores          Camelot         lioness         Donatella      
+thedba          Le Fay          Camelot         json            Stills         
+thunder         Gareth          Valhalla        ollie           Tooth          
+trudie          Reni            Buffalo         carter          Tony           
+whisper         Fred            Walmart         growley         Rocky          
+zedster         Horatio         The Deep        cait            Cait           
+
+  34 record(s) selected.

@@ -1,0 +1,7 @@
+
+LOGIN           NAME            GENDER #AVATAR    
+--------------- --------------- ------ -----------
+json            Jason           M                3
+tizdale         Wanda           F                3
+
+  2 record(s) selected.

@@ -1,0 +1,37 @@
+
+LOGIN           NAME            ADDRESS         SECONDS    
+--------------- --------------- --------------- -----------
+agnetha         Sarah           191 Howth Ave        334777
+astral          Jessie          81 Franklin St       259190
+bobby           Robert          7 Avenue Rd          363714
+cait            Caitlin         444 Sycamore Dr      306340
+carter          Lucy            213 John Ave         361904
+cash            Thomas          213 John Ave         272986
+coder           Jeff            223 Ossington        288167
+dazzle          Alice           1313 Denton St       256620
+dougy           Douglas         92 Horace Way        363860
+growley         Franck          218 Jane St          355543
+hazard          Robert          99 Monica Blvd       330450
+hills           Hillary         100 Madison Ave      293856
+horton          Aaron           64 Smalls Ave        381119
+indigo          Annie           5611 Keele St        293126
+json            Jason           8441 Quince Ln       320516
+lioness         Margot          201 Oakwood St       362615
+lurker          Mark            232 Bedford Ave      302442
+macho           Tony            887 Dufferin         311124
+ollie           Oliver          18 Castaway          296225
+pirate          Johnny          5 Hollywood Rd       404760
+skills          Cathy           51 Insilico Plc      250770
+snek            Sammy           75 Slitherton        332246
+storm           Felicia         15 Davis Way         303965
+surfette        Zeripha         92 Horace Way        382426
+thedba          Harriet         141 Williams St      295983
+thesix          Drake           12 King St           335888
+thunder         Leo             87 Carleton Way      352906
+tizdale         Wanda           34 Jackon Hght       396162
+trudie          Lisa            77 London Rd         299337
+whisper         Lyda            45 Freehold Ln       384489
+zedster         Quenton         7 Vermont Ave        351466
+zoood           Daena           221 Baker St         390495
+
+  32 record(s) selected.

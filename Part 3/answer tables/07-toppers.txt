@@ -1,0 +1,15 @@
+
+REALM           GENDER RACE            TOTAL      
+--------------- ------ --------------- -----------
+Buffalo         F      shark                 12497
+Buffalo         M      wizard                11079
+Camelot         F      faerie                 2414
+Camelot         M      shark                 13980
+The Deep        F      raccoon               12678
+The Deep        M      footballer           111893
+Valhalla        F      wizard               101195
+Valhalla        M      wizard                13635
+Walmart         F      raccoon               10964
+Walmart         M      wizard               202123
+
+  10 record(s) selected.

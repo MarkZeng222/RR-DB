@@ -1,0 +1,40 @@
+
+REALM           TREASURE             SQL        
+--------------- -------------------- -----------
+Buffalo         Townhall Key                1000
+Buffalo         Snowblower                   713
+Buffalo         Dyngus Day Trophy            450
+Buffalo         Bills T-shirt                 25
+Buffalo         Windows XP                    13
+Buffalo         Beef on Weck                   7
+Buffalo         Sponge Candy                   3
+Camelot         Vorpal Sword                1000
+Camelot         Dragon Tooth                 625
+Camelot         Arthur's Portrait            319
+Camelot         Kawaii Bunny                  79
+Camelot         Plum Pudding                  21
+Camelot         Left Sandal                    3
+Camelot         Right Sandal                   3
+The Deep        Neptune's Trident           1000
+The Deep        Silver Snorkel               571
+The Deep        Mounted Swordfish            350
+The Deep        Laughing Carp                 69
+The Deep        Broken Scuba Tank             23
+The Deep        Seaweed Crackers               4
+The Deep        Barnacle                       1
+Valhalla        Mjolnir                     1000
+Valhalla        Tin Armor                    469
+Valhalla        Sarcastic Parrot             419
+Valhalla        Questionable Potion           57
+Valhalla        Thor's sandwich               19
+Valhalla        Kensico Guidebook             13
+Valhalla        Bag of Peanuts                 2
+Walmart         Black Friday Special        1000
+Walmart         1983 HP Calculator           653
+Walmart         Shopping Cart                479
+Walmart         13" TV                        99
+Walmart         Deranged Cat                  17
+Walmart         Tiger Balm                     3
+Walmart         Used Wad of Gum                1
+
+  35 record(s) selected.

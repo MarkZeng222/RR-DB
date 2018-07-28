@@ -1,0 +1,12 @@
+-- Per quest, pick a person (if any) who got no prize.
+
+-- In case of more than one person receiving nothing, we'll pick the one
+-- with the 'login' that comes first (in dictionary order).
+select day, realm, theme, min(login) as login
+from Actor
+where (day, realm, theme, login) not in (
+            select day, realm, theme, login
+            from Loot
+        )
+group by day, realm, theme
+order by day, realm, theme;

@@ -1,0 +1,68 @@
+
+
+REALM           DAY        THEME          
+--------------- ---------- ---------------
+Buffalo         08/06/2016 Airport Chaos  
+The Deep        08/06/2016 Seahorse Sauna 
+Valhalla        08/06/2016 Thor Snore     
+Walmart         08/06/2016 50% off!!      
+The Deep        08/07/2016 Funny Fishes   
+Valhalla        08/07/2016 Raccoon Rodeo  
+Walmart         08/07/2016 Cart Race      
+Buffalo         08/13/2016 Boarder Chaos  
+Camelot         08/13/2016 Mad King Arthur
+The Deep        08/13/2016 Mermaid Waltz  
+Buffalo         08/14/2016 Airport Chaos  
+The Deep        08/14/2016 Octopus Garden 
+Valhalla        08/20/2016 Raccoon Rodeo  
+Buffalo         08/27/2016 Niagara Bowling
+Valhalla        08/27/2016 Thor Snore     
+Valhalla        08/28/2016 Raccoon Rodeo  
+Walmart         08/28/2016 The Last TV    
+Buffalo         09/03/2016 I95 Race       
+Camelot         09/03/2016 Mad King Arthur
+The Deep        09/03/2016 The Shark Tank 
+Walmart         09/03/2016 Closing Soon   
+Camelot         09/04/2016 Mad King Arthur
+The Deep        09/04/2016 Coral Chorus   
+The Deep        09/10/2016 The Shark Tank 
+Valhalla        09/11/2016 Thor Snore     
+The Deep        09/17/2016 Mermaid Waltz  
+Valhalla        09/17/2016 Asgard Acadian 
+Camelot         09/18/2016 Crow's Lament  
+Valhalla        09/24/2016 Thor Snore     
+Walmart         09/24/2016 None Left      
+Valhalla        09/25/2016 Thor Snore     
+Walmart         09/25/2016 Aisle 13       
+Buffalo         10/01/2016 Snow Blowers   
+Buffalo         10/02/2016 I95 Race       
+Camelot         10/02/2016 Merlin Prophesy
+The Deep        10/02/2016 The Shark Tank 
+Valhalla        10/02/2016 Raccoon Rodeo  
+Camelot         10/08/2016 Crow's Lament  
+The Deep        10/08/2016 Seahorse Sauna 
+Valhalla        10/08/2016 Feast of Freyja
+Walmart         10/08/2016 The Last TV    
+Valhalla        10/09/2016 Feast of Freyja
+Walmart         10/09/2016 Closing Soon   
+Buffalo         10/15/2016 Niagara Bowling
+Walmart         10/15/2016 Aisle 13       
+Camelot         10/22/2016 Mordred's Fear 
+Valhalla        10/22/2016 Feast of Freyja
+Valhalla        10/23/2016 Raccoon Rodeo  
+Walmart         10/23/2016 Closing Soon   
+Buffalo         10/29/2016 Boarder Chaos  
+Camelot         10/29/2016 Lancelot Laughs
+The Deep        10/29/2016 Coral Chorus   
+Valhalla        10/30/2016 Asgard Acadian 
+Camelot         11/05/2016 Bad Habits     
+The Deep        11/05/2016 Mermaid Waltz  
+Valhalla        11/05/2016 Asgard Acadian 
+Walmart         11/05/2016 50% off!!      
+Camelot         11/06/2016 Mad King Arthur
+Buffalo         11/12/2016 I95 Race       
+Camelot         11/12/2016 Bad Habits     
+Valhalla        11/12/2016 Odin Open      
+Buffalo         11/13/2016 Niagara Bowling
+
+  62 record(s) selected.

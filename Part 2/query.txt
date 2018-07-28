@@ -1,0 +1,9 @@
+
+
+select account.login, account.name as player, visit.name as avatar ,count(plays.quest)as #quests
+
+from plays, visit, account 
+
+where plays.realm = visit.realm and visit.day=plays.day and account.login=visit.login and account.login=plays.login 
+
+group by account.login, account.name, visit.name 

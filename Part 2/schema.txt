@@ -1,0 +1,67 @@
+
+create table qgdb_account(
+    login varchar(15) not null,
+    name varchar(15) not null,
+    address varchar(15) not null,
+    joined timestamp not null,
+    constraint qgdb_account_pk
+        primary key (login))
+
+
+create table qgdb_avatar(
+    name varchar(15) not null,
+    login varchar(15) not null,
+    gender char(1) not null,
+    look varchar(15) not null,
+    constraint qgdb_avatar_pk
+        primary key (name, login),
+    constraint qgdb_avatar_fk_account
+        foreign key (login) references qgdb_account)
+
+create table qgdb_realm(
+    realm varchar(15) not null,
+    constraint qgdb_realm_pk
+        primary key (realm))
+
+
+create table qgdb_visit(
+    login varchar(15) not null unique,
+    name varchar(15) not null,
+    realm varchar(15) not null,
+    day date unique not null, 
+    constraint qgdb_visit_pk
+        primary key (login, day),
+    constraint qgdb_visit_fk_account
+        foreign key (login) references qgdb_account,
+    constraint qgdb_visit_fk_realm
+        foreign key (realm) references qgdb_realm)
+
+
+
+create table qgdb_quest(
+    quest varchar(15) not null,
+    realm varchar(15) not null,
+    day date not null,
+    succeeded time,
+    constraint qgdb_quest_pk
+        primary key (quest, realm, day),
+    constraint qgdb_quest_fk_realm
+        foreign key (realm) references qgdb_realm)
+
+
+create table qgdb_plays(
+    login varchar(15) not null,
+    realm varchar(15) not null,
+    day date not null,
+    quest varchar(15) not null,
+    role varchar(15) not null,
+    constraint qgdb_plays_pk
+        primary key (login, realm, day, quest),
+    constraint qgdb_plays_fk_account
+        foreign key (login) references qgdb_account,
+    constraint qgdb_plays_fk_realm
+        foreign key (realm) references qgdb_realm,
+    constraint qgdb_plays_fk_visit
+        foreign key (login, realm, day) references qgdb_visit,
+    constraint qgdb_plays_fk_quest
+        foreign key (quest, realm, day) references qgdb_quest)
